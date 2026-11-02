@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- يسمح بمشاركة أي ملف في التخزين (التطبيق يملك إذن الوصول لكل الملفات) -->
+<paths>
+    <root-path name="root" path="/"/>
+</paths>
